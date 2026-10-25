@@ -82,6 +82,14 @@ button:disabled{
     cursor: not-allowed;
 }
 
+.modalidad{
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 4px;
+    background: #e0e7ff;
+    font-size: 0.8em;
+}
+
 @media screen and (max-width: 600px) {
     .container{
         display: grid;
