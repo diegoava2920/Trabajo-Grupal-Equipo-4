@@ -31,7 +31,7 @@ function crearTarjeta(evento) {
   tarjeta.appendChild(detalle); 
   tarjeta.appendChild(cupos); 
   tarjeta.appendChild(boton); 
-  tarjeta.insertAdjacentHTML("afterbegin", `<span class="modalidad">${evento.modalidad}</span>`); 
+  tarjeta.insertAdjacentHTML("afterbegin", `<span class="badge">${evento.modalidad}</span>`); 
   return tarjeta; 
 } 
  
