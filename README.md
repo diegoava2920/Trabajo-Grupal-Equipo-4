@@ -40,4 +40,4 @@ https://diegoava2920.github.io/Trabajo-Grupal-Equipo-4/
 | #5 - Ejercicio de debugging | Fiorela | Felipe | [PR #8](https://github.com/diegoava2920/Trabajo-Grupal-Equipo-4/pull/8) |
 | #6 - Corrección de bugs 1 y 2 | Diego | Fiorela | [PR #9](https://github.com/diegoava2920/Trabajo-Grupal-Equipo-4/pull/9) |
 | #7 - Corrección del bug 3 | Felipe | Diego | [PR #10](https://github.com/diegoava2920/Trabajo-Grupal-Equipo-4/pull/10) |
-| #8 - README y publicación | Fiorela | Felipe | [PR #11] |
+| #8 - README y publicación | Fiorela | Felipe | [PR #11](https://github.com/diegoava2920/Trabajo-Grupal-Equipo-4/pull/11) |
